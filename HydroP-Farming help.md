@@ -19,9 +19,17 @@ Start with DWC for simplicity.[web:3]
 
 ## 2. Learning Resources
 
-Build knowledge before investing. Free resources: YouTube tutorials (e.g., Purdue's simple DWC setup), Instructables guides.[web:1][web:10] Paid courses in India:
-- Envirevo Agritech "Kick Start to Hydroponics" (basics to commercial).[web:8]
-- GardenGuru Hydroponics Foundation (₹5,999, 11 modules + business).[web:18]
+Build knowledge before investing. **Free resources**:
+- [Purdue Hydroponics 101 PDF Guide](https://www.purdue.edu/hla/sites/cea/wp-content/uploads/sites/15/2021/01/Hydroponics-101-1.pdf) – Basics on systems, nutrients.[web:23]
+- [Purdue Simple DWC YouTube Tutorial](https://www.youtube.com/watch?v=mcKSpwROvX8) – Step-by-step home setup.[web:10]
+- [Hydroponic Masterclass India YouTube](https://www.youtube.com/watch?v=kerv7KUiTUA) – India-specific intro.[web:19]
+- [DIY Inexpensive Hydroponic System YouTube](https://www.youtube.com/watch?v=dLEVQw-bHhc) – Budget build.[web:24]
+- [Free Hydroponics PDFs Collection](https://www.infobooks.org/free-pdf-books/various-topics/hydroponics/) – Beginner guides, vegetable production.[web:21]
+- [Citygreens Hydroponic Farming PDF (India)](https://www.citygreens.ai/files/CG_HF.pdf) – Urban farming focus.[web:26]
+
+Paid courses in India:
+- Envirevo Agritech "Kick Start to Hydroponics".[web:8]
+- GardenGuru Hydroponics Foundation (₹5,999).[web:18]
 
 Practice virtually via simulations or small kits (₹2,000-5,000). Aim for 2-4 weeks study.[web:12]
 
@@ -29,11 +37,11 @@ Practice virtually via simulations or small kits (₹2,000-5,000). Aim for 2-4 w
 
 **Materials (Total ~₹8,000-15,000)**: 20L bucket, submersible pump (₹500), air pump/stone (₹300), net pots (₹200), rockwool/coco coir (₹500), pH kit (₹1,000), nutrients (₹1,000), LED grow light (₹2,000).[web:10][web:15]
 
-**Step-by-Step Setup (DWC)**:
-1. Drill holes in lid for net pots; place air stone/pump in bucket.[web:10]
+**Step-by-Step Setup (DWC)** – Follow [this free video](https://www.youtube.com/watch?v=mcKSpwROvX8):[web:10]
+1. Drill holes in lid for net pots; place air stone/pump in bucket.
 2. Mix nutrients: Base with calcium nitrate, potassium nitrate, Epsom salt (DIY recipe: 1g/L each macro + trace minerals; adjust pH).[web:7]
 3. Germinate seeds in rockwool (lettuce/basil, 7-10 days).[web:5]
-4. Transplant seedlings when roots show; fill reservoir halfway, run pump 24/7.[web:2][web:10]
+4. Transplant seedlings when roots show; fill reservoir halfway, run pump 24/7.[web:2]
 5. Monitor daily: pH/EC, top up water, change solution weekly.[web:1]
 
 Harvest in 4-6 weeks. Start with easy plants: Lettuce, spinach, basil, mint (high yield, low light).[web:5]
