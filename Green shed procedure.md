@@ -1,3 +1,27 @@
+In Maharashtra, the Mission for Integrated Development of Horticulture (MIDH) is primarily implemented through the MahaDBT Farmer Portal. Starting from the 2025–2026 financial year, the state has transitioned to a "First Come, First Served" approach for selecting beneficiaries. 
+Online Registration: Visit the MahaDBT Portal and click on "New Applicant Registration".
+Aadhaar Authentication: Use your Aadhaar number for OTP-based verification to auto-populate personal and bank details.
+Profile Completion: Complete your profile to 100% by entering permanent address details, domicile, and caste information (if applicable). 
+Step 2: Application Submission
+Select Scheme: Log in and navigate to "Agriculture Department Schemes." Select the relevant horticulture component (e.g., area expansion, protected cultivation, or mechanization).
+Upload Documents: You must provide digital copies of the following:
+7/12 Extract and 8-A Certificate (Land ownership records).
+Caste Certificate (for SC/ST beneficiaries to claim higher subsidy rates).
+Quotations: For equipment or project costs from approved dealers.
+Self-Declaration and a recent passport-size photograph.
+Pay Fees: Pay the required online application fee to finalize your submission. 
+Step 3: Approval and Sanction
+Selection Process: Applications are selected based on the timestamp of submission ("First Come, First Served").
+Verification: The Block or District Horticulture Officer verifies the data and project plan.
+Pre-Sanction Letter: If approved, you will receive a Pre-Sanction Letter via the portal. Do not start any work or purchase equipment before receiving this letter. 
+Step 4: Implementation and Inspection
+Project Execution: Complete the work (e.g., planting an orchard or building a polyhouse) within the specified timeline, usually 12 months.
+Joint Inspection: After completion, a Joint Inspection Team (JIT) including state officers and bank officials (if credit-linked) will visit your farm to verify that the work matches technical standards. 
+Step 5: Subsidy Disbursement
+Direct Benefit Transfer (DBT): Once the inspection report is approved, the subsidy is credited directly to your Aadhaar-linked bank account.
+Back-Ended Subsidy: For large projects (like cold storage or polyhouses), the subsidy is "back-ended," meaning it is released to your bank to adjust against your loan principal after project completion. 
+
+
 This guide provides the complete end-to-end procedure for the Mission for Integrated Development of Horticulture (MIDH) in Maharashtra for the 2025–2026 financial year. 
 
 # MIDH Maharashtra: Application Guide (2025-2026)
